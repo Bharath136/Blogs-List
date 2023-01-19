@@ -1,0 +1,27 @@
+.blog-item {
+  border-bottom: 1px solid #9aa5b1;
+}
+
+.title-date-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: 600;
+  font-family: 'Roboto';
+  color: #12022f;
+}
+
+.date {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+  font-size: 16px;
+}
+
+.description {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+  font-size: 16px;
+}
